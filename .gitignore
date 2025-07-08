@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Data files you don't want to commit
+*.csv
+*.h5
+
+# Environment variables
+.env
